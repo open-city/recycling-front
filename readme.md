@@ -1,10 +1,20 @@
-# Recycling Mockups
+# Where is my recycling? design
 
-## Comps 
-
-Coming Soon
+- [Design](https://github.com/open-city/recycling-front)
+- [Code](https://github.com/open-city/recycling)
+- [Deploy](recycling.herokuapp.com)
 
 ## Prototype
 
-[Axure Files](http://i785tr.axshare.com/#p=home)
+- [Axure files](http://i785tr.axshare.com/#p=home)
 
+## Design
+
+- [Export 1×](designs/home-desktop@1x.png)
+- [Export 2×](designs/home-desktop@2x.png)
+- [Sketch](designs/home.sketch)
+
+## Open City links
+
+- [Open Gov Hack Night](http://opengovhacknight.org/)
+- [Open City](http://opencityapps.org/)
